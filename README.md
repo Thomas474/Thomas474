@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Thomas474
+- 👀 I’m interested in css, html, and python.
+- 🌱 I’m currently learning pygame.
+- 💞️ I’m looking to collaborate on quick projects to excell my learning.
+- 📫 How to reach me: Email me at - ThomasGOsborne@hotmail.com
+- 😄 Pronouns: he/him
